@@ -7,6 +7,8 @@ https://github.com/YaqiWangCV/LKD.git
 
 https://dl.acm.org/doi/abs/10.1007/s10489-024-05274-8
 
+https://drive.google.com/drive/folders/11FbKatIlVzWhyOtFAhn8CVhP_qWFSkCh?usp=drive_link
+
 ## Segmentation model 사용해서 feature 추출
 
 ## Grading model
